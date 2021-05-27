@@ -5,3 +5,5 @@ prva rpomena
 asdfasdfasf
 
 asdfasdf
+
+promena na drugom branchu
